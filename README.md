@@ -1,2 +1,9 @@
-# Computational_Social_Media
-This repository is used for the Computation Social Media course at EPFL. It will show all the assignments done in the course.
+---
+
+
+---
+
+<h1 id="assignment-2">Assignment 2</h1>
+<p>To have notebook viewer, please follow the link:<br>
+<a href="http://nbviewer.jupyter.org/github/CSantiStSup/Computational_Social_Media/blob/master/Assignment2.ipynb">http://nbviewer.jupyter.org/github/CSantiStSup/Computational_Social_Media/blob/master/Assignment2.ipynb</a></p>
+
